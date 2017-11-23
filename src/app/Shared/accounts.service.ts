@@ -1,5 +1,5 @@
-import {LoggingService} from './logging.service';
-import {EventEmitter, Injectable} from '@angular/core';
+import { LoggingService } from './logging.service';
+import { Injectable } from '@angular/core';
 
 @Injectable()
 export class AccountService {

@@ -1,4 +1,4 @@
-import { Component, EventEmitter, Input, Output } from '@angular/core';
+import { Component, Input } from '@angular/core';
 import {LoggingService} from '../Shared/logging.service';
 import {AccountService} from '../Shared/accounts.service';
 
